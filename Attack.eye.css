@@ -434,5 +434,7 @@ hr{
     -webkit-background-clip: text; /* For better browser compatibility */
     color: transparent; 
 }
-  
+.white{
+    color: white !important;
+}
 
